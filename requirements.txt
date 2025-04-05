@@ -1,4 +1,4 @@
-face_recognition
-imutils
+dlib==19.24.0
 opencv-python
+imutils
 numpy
