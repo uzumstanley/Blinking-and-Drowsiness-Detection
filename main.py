@@ -1,6 +1,6 @@
 import numpy as np
 import cv2
-import dlib
+import face_recognition
 from math import sqrt
 from imutils import face_utils
 
